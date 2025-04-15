@@ -15,3 +15,5 @@ This work is supported by 5R01AG080635-02 grant.
 3. Remote Adminstration
 
      - Located in the [remote_admin_instruments](./remote_admin_instruments)
+
+![In-Person Admin Instruments](https://raw.githubusercontent.com/rcare-toolbox/redcap-measures/main/images/image.png)
